@@ -13,7 +13,8 @@ namespace LogicRecap
             //Exercise6.run();
             //Exercise7.run();
             //Exercise8.run();
-            Exercise9.run();
+            //Exercise9.run();
+            Exercise10.run();
         }
     }
 }
